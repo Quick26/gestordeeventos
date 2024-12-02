@@ -1,4 +1,4 @@
-# gestordeeventos
+faseIV
 
 GestorDeEventos App
 
@@ -21,8 +21,7 @@ Frontend: Flutter (compatible con Android e iOS).
 Backend: Node.js con Express.
 Base de datos: PostgreSQL.
 Despliegue: Heroku para el backend.
-
-#Tabla de Contenidos
+Tabla de Contenidos
 
 Descripción
 Problema Identificado
@@ -53,7 +52,7 @@ Instalación
 
 Ambiente de Desarrollo
 Clona este repositorio:
-git clone https://github.com/ficticio/gestordeeventos.git  
+git clone https://github.com/Quick26/gestordeeventos.git  
 Backend:
 Navega al directorio del backend:
 cd backend  
@@ -83,7 +82,7 @@ Crea un archivo .env en el directorio del backend con el siguiente contenido:
 DATABASE_URL=postgres://admin:admin123@localhost:5432/eventosdb  
 JWT_SECRET=clave_secreta  
 SMTP_HOST=smtp.mailtrap.io  
-SMTP_USER=ficticio@mailtrap.io  
+SMTP_USER=admin@mailtrap.io  
 SMTP_PASS=contraseña123  
 Uso
 
@@ -97,7 +96,7 @@ Reportes: Genera reportes de asistencia y participación de los usuarios.
 Contribución
 
 Clona este repositorio:
-git clone https://github.com/ficticio/gestordeeventos.git  
+git clone https://github.com/Quick26/gestordeeventos.git  
 Crea un branch para tus cambios:
 git checkout -b feature/nueva-funcionalidad  
 Haz tus cambios y realiza un commit:
