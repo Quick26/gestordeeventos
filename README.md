@@ -19,17 +19,19 @@ Frontend: Desarrollado con Flutter, asegurando compatibilidad con dispositivos A
 Backend: Implementado con Node.js y Express para manejar solicitudes y la lógica del negocio.
 Base de datos: PostgreSQL como sistema de almacenamiento de datos.
 Despliegue: Utilizando Heroku para alojar el backend y Firebase Hosting para el frontend.
+
+
 Tabla de Contenidos
 
-Resumen Ejecutivo
-Requerimientos
-Instalación
-Configuración
-Uso
-Contribución
-Roadmap
-Producto Final
-Requerimientos
+1-.Resumen Ejecutivo
+2-.Requerimientos
+2-.Instalación
+3-.Configuración
+4-.Uso
+5-.Contribución
+6-.Roadmap
+7-.Producto Final
+8-.Requerimientos
 
 Tecnologías Utilizadas
 Frontend: Flutter.
