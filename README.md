@@ -121,6 +121,8 @@ Producto Final
 Video de Demostración
 Ver el video aquí
 
+https://youtu.be/Mg37rEYBTCE
+
 Acceso al Producto
 Despliegue en la nube: https://gestordeeventos.heroku.com, https://gestion-de-eventos-tt3185.flutterflow.app/
 Descarga del Producto: WAR/JAR para descarga
